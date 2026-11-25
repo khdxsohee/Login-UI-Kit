@@ -13,7 +13,10 @@ This project provides a versatile set of beautifully designed login and signup f
 * **Automatic Smooth Scrolling:** A small JavaScript snippet for an aesthetic auto-scroll feature, allowing users to easily browse through the different themes.
 
 ## 🚀 Demo
-![login ui kit](https://github.com/user-attachments/assets/f1b1be85-7bdc-4647-a4c5-fa78367cff9d)
+
+<img width="1366" height="4523" alt="screencapture-file-C-Users-Wang-Lin-s-Heart-Downloads-Compressed-login-ui-kit-main-index-html-2026-11-25-10_26_52" src="https://github.com/user-attachments/assets/ce2dde3d-ade6-4778-8d92-1ceef407ff07" />
+
+
 
 You can see a live demo of all the forms by simply opening the `index.html` file in your browser.
 
